@@ -1,0 +1,495 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+/*====== First Head/ Nav Start here======*/
+
+.nav__main {
+    background-color: #003E61;
+    width: 100%;
+    display: inline-block;
+    height: 3.7rem;
+}
+
+.nav__main__social {
+    display: inline-block;
+    padding: 1rem;
+    padding-left: 17rem;
+}
+
+img.nav__main__image {
+    margin-right: 1.3rem;
+}
+
+.nav__main__search__box {
+    display: inline;
+}
+
+input#search {
+    display: inline-block;
+    margin-left: 18rem;
+    background-color: #003E61;;
+    border: 1px solid #fff;
+}
+
+input[type="search"] {
+    margin: 20px;
+}
+
+.nav__main__search__icon {
+    margin-top: -2.5rem;
+    margin-left: 71.2rem;
+}
+
+input[type="button"] {
+    background-color: #003E61;
+    border: 1px solid #fff;
+    color: #fff;
+}
+
+::placeholder {
+    color: rgb(255, 255, 255);
+}
+
+/*====== First Head/ Nav Start here======*/
+
+
+/*======Second Head/ Head__Section Start here========*/
+
+.head__section {
+    background-color: #1F7EB6;
+    height: 8rem;
+}
+
+.head__section__brand {
+    display: inline-block;
+    padding-left: 17rem;
+    padding-top: 2rem;
+    font-size: 1.2rem;
+    color: #eee6e6;
+}
+
+h2.head__section__text {
+    font-size: 0.9rem;
+    margin-top: 0.8rem;
+}
+
+.head__section__title {
+    display: inline;
+    margin-left: 4rem;
+    font-weight: 900;
+    font-family: sans-serif;
+    word-spacing: 2px;
+}
+
+
+.head__section__title__link {
+    border-left: 1px solid #fff;
+    background-color: #003E61;
+    text-decoration: none;
+    color: #fff;
+    padding: 15px;
+    transition: 0.3s;
+}
+
+.head__section__title__link:hover {
+    background-color: #83A209;
+}
+
+.active {
+    background-color: #83A209;
+}
+
+
+/*=======Second Head/ Head__Section End here=========*/
+
+
+
+/*=========Third__div Start here==========*/
+
+.third__div {
+    background-color: #89C7EB;
+}
+
+.third__div__1 {
+    display: inline-block;
+    width: 20%;
+    margin-left: 13rem;
+    margin-top: 2rem;
+}
+
+.third__div-image {
+    border: 4px solid #fff;
+}
+
+.third__div__image__title {
+    font-size: 157%;
+    font-weight: 200;
+    margin-top: 0.7rem;
+}
+
+.third__div__dash {
+    width: 73%;
+    border-bottom: 1px dashed #605757;
+    border-top: 1px;
+    margin: 0.6rem 0.6rem 0.8rem 0;
+}
+
+.third__div__image__text {
+    width: 74%;
+    text-align: justify;
+    color: #3e3d5ad1;
+}
+
+.third__div__continue__arrow {
+    font-size: 0.8rem;
+    font-weight: 900;
+}
+
+.third__div__continue {
+    display: inline-block;
+    text-decoration: none;
+    margin: 1rem 0 2rem 5.7rem;
+    font-weight: bold;
+}
+    
+
+.third__div__2 {
+    display: inline-block;
+    width: 20%;
+    margin-left: -1rem;
+    margin-top: 2rem;
+}
+
+.third__div__3 {
+    display: inline-block;
+    width: 20%;
+    margin-left: -1rem;
+    margin-top: 2rem;
+}
+
+.third__div__4 {
+    display: inline-block;
+    width: 20%;
+    margin-left: -1rem;
+    margin-top: 2rem;
+}
+    
+
+
+
+/*=========Third__div End here==========*/
+
+
+/*==========Kalo dag Start here========*/
+
+
+.kalo__dag {
+    height: 0.8rem;background: black;
+}
+
+
+
+
+/*==========Kalo dag End here========*/
+
+
+
+
+/*==========Four div Start here===========*/
+
+
+.four__div__1 {
+    display: inline-block;
+    width: 20%;
+    margin-left: 13rem;
+    margin-top: 2rem;
+    background: #F6F6F6;
+}
+
+.four__div__heading {
+    font-size: 1.4rem;
+    margin: 1rem 1rem 0.5rem 1rem;
+    font-weight: 100;
+    color: black;
+}
+
+.four__div__dag {
+    border-top: 1px dashed #746767c9;
+    border-bottom: 1px;
+    margin: 0.5rem 1rem 0.5rem 1rem;
+}
+
+.four__div__image {
+    margin: 0.5rem 1rem 0.5rem 1rem;
+    width: 262px;
+    border: 5px solid #ba949482;
+}
+
+.four__div__text {
+    margin: 0.5rem 1rem 1rem 1rem;
+    text-align: justify;
+}
+
+.four__div__continue {
+    display: inline-block;
+    text-decoration: none;
+    margin: 0.7rem 0rem 1.6rem 9rem;
+    font-weight: bold;
+}
+
+.four__div__2 {
+    display: inline-block;
+    width: 20%;
+    margin-left: 6rem;
+    margin-top: 2rem;
+    background: #F6F6F6;
+}
+
+.four__div__3 {
+    display: inline-block;
+    width: 20%;
+    margin-left: 6rem;
+    margin-top: 2rem;
+    background: #F6F6F6;
+}
+
+
+
+
+
+/*==========Four div End here===========*/
+
+
+/*==========Dash__dag Start here==========*/
+
+.dash__dag {
+    margin: 2rem 12.5rem 2rem 13rem;
+    border-bottom: 2px dashed black;
+    border-top: 1px;
+}
+
+
+/*==========Dash__dag End here==========*/
+
+
+/*========== Five__div Start here=========*/
+
+.five__div {
+    display: inline-block;
+    margin-bottom: 5rem;
+}
+
+.left__side {
+    display: inline-block;
+    width: 46%;
+    margin-left: 13rem;
+}
+
+.five__div__left__heading {
+    margin: 0rem 2rem 0.5rem 0;
+    font-size: 1.6rem;
+    font-weight: 100;
+}
+
+.five__div__dash__dag {
+    border-top: 2px dashed #a09c9c91;
+    border-bottom: 1px;
+    margin-bottom: 1.5rem;
+}
+
+.five__div__text {
+    font-size: 0.8rem;
+    font-family: sans-serif;
+}
+
+.five__div__text__link {
+    text-decoration: none;
+    color: #f4846ff2;
+    font-weight: 200;
+}
+
+
+.right__side {
+    display: inline-block;
+    width: 20%;
+    margin-left: 6.5rem;
+    background: #F9F9F9;
+}
+
+.right__side2 {
+    margin-bottom: 2rem;
+}
+
+.right__side__link {
+    text-decoration: none;
+    display: inline-block;
+    margin: 0.3rem 0rem 0rem 2rem;
+    color: #5e5a58d1;
+    transition: 0.1s;
+}
+
+.right__side__link:hover {
+    color: #f4846ff2;
+}
+
+.besi__faka {
+    margin-top: 2rem;
+}
+
+.right__side__arro {
+    margin: 2px 5px 2px 0;
+    width: 3.5px;
+    height: 6px;
+}
+
+.right__side__dash {
+    margin: 0.3rem 2rem 0 1.5rem;
+    border-bottom: 2px dashed #beb7b7bf;
+    border-top: 1px;
+}
+
+
+
+/*========== Five__div End here=========*/
+
+
+
+/*========== Six__div Start here========*/
+
+.six__div {
+    background: #37639A;
+}
+
+
+.six__div__1 {
+    display: inline-block;
+    width: 19.7%;
+    margin-left: 13rem;
+    margin-top: 1.1rem;
+    margin-bottom: 2rem;
+}
+
+.six__div__heading {
+    font-size: 1.3rem;
+    font-weight: 100;
+    color: #ffffffa8;
+}
+
+.six__div__dash__dag {
+    border-bottom: 2px dashed #ffffff9c;
+    border-top: 1px;
+    margin-top: 0.4rem;
+}
+
+.six__div__text {
+    font-family: sans-serif;
+    font-size: 0.9rem;
+    color: #ffffffa8;
+    margin-top: 1.48rem;
+}
+
+#six__div__search {
+    margin: 0.5rem 0;
+    width: 86%;
+    padding: 0.2rem;
+}
+
+input#six__div__search::placeholder {
+    color: rgba(0, 0, 0, 0.712);
+}
+
+input.six__div__box {
+    background: #fff;
+    color: #000000c2;
+    padding: 0.2rem;
+}
+
+.six__div__text {
+    margin-top: 0.7rem;
+}
+
+.six__div__link {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+.six__div__2 {
+    display: inline-block;
+    width: 19.7%;
+    margin-left: 6.5rem;
+}
+
+.six__div__heading {
+
+}
+
+.six__div__link {
+    display: inline-block;
+    margin-top: 1.54rem;
+    font-family: sans-serif;
+    font-size: 0.9rem;
+}
+
+
+.six__div__3 {
+    display: inline-block;
+    width: 19.7%;
+    margin-left: 6.2rem;
+}
+
+.six__div__heading {
+    display: inline-block;
+}
+
+.six__div__text {
+
+}
+
+.vejal {
+    margin-top: 2.5rem;
+}
+
+
+
+/*========== Six__div End here========*/
+
+
+
+/*=========Seven__div Start here========*/
+
+
+.seven__div {
+    background: #1A3151;
+    padding: 1rem;
+}
+
+.left__copyritght {
+    display: inline-block;
+    width: 40%;
+    margin-left: 13rem;
+    color: #ffffffa3;
+}
+
+.footer__right__side {
+    display: inline-block;
+    width: 21%;
+    margin-left: 21rem;
+    color: #ffffffba;
+}
+
+.seven__div__link {
+    text-decoration: none;
+    color: #fff;
+    font-family: sans-serif;
+    font-size: 0.87rem;
+    font-weight: 100;
+}
+
+
+
+
+
+/*=========Seven__div End here========*/
